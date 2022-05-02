@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620845678 source:c:\users\achil\desktop\lab6\main.cpp
+	<iostream>
+	"myFile.h"
+
+1620847700 c:\users\achil\desktop\lab6\myfile.h
+
+1620847802 source:c:\users\achil\desktop\lab6\myfile.cpp
+	"myFile.h"
+	<fstream>
+	<string>
+
